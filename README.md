@@ -1,5 +1,4 @@
-# EasyConnect Docker Helper Scripts
-# EasyConnect Docker 辅助脚本
+# EasyConnect Docker Helper Scripts 辅助脚本
 
 ## The Problem / 问题所在
 Many universities and companies require the use of Sangfor's EasyConnect VPN client to access internal network resources.
